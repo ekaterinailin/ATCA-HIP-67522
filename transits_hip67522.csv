@@ -1,0 +1,71 @@
+# This file was produced by the NASA Exoplanet Archive  http://exoplanetarchive.ipac.caltech.edu,,,,,,,,,,,,,,,,,,,,,,,,,,
+# Tue Dec  5 02:16:11 2023,,,,,,,,,,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,,,,,,,,,,
+# COLUMN planetname:     Data Source Planet Name,,,,,,,,,,,,,,,,,,,,,,,,,,
+# COLUMN ra_str:         RA [sexagesimal],,,,,,,,,,,,,,,,,,,,,,,,,,
+# COLUMN ra:             RA [decimal degrees],,,,,,,,,,,,,,,,,,,,,,,,,,
+# COLUMN dec_str:        Dec [sexagesimal],,,,,,,,,,,,,,,,,,,,,,,,,,
+# COLUMN dec:            Dec [decimal degrees],,,,,,,,,,,,,,,,,,,,,,,,,,
+# COLUMN obsname:        Observatory Name,,,,,,,,,,,,,,,,,,,,,,,,,,
+# COLUMN ploturl_dl:     ,,,,,,,,,,,,,,,,,,,,,,,,,,
+# COLUMN reflink:        Reference,,,,,,,,,,,,,,,,,,,,,,,,,,
+# COLUMN algorithm:      Algorithm,,,,,,,,,,,,,,,,,,,,,,,,,,
+# COLUMN isdefault:      Default Parameters Flag,,,,,,,,,,,,,,,,,,,,,,,,,,
+# COLUMN ismostprecise:  Most-Precise Flag,,,,,,,,,,,,,,,,,,,,,,,,,,
+# COLUMN hasmoreprecise: Ephemeris Warning Flag,,,,,,,,,,,,,,,,,,,,,,,,,,
+# COLUMN eccenwarning:   Eccentricity Warning Flag,,,,,,,,,,,,,,,,,,,,,,,,,,
+# COLUMN phase:          Phase,,,,,,,,,,,,,,,,,,,,,,,,,,
+# COLUMN period:         Period [days],,,,,,,,,,,,,,,,,,,,,,,,,,
+# COLUMN transitduration: Transit Duration [hours],,,,,,,,,,,,,,,,,,,,,,,,,,
+# COLUMN transitdepthdb: Transit Depth - Measured [percent],,,,,,,,,,,,,,,,,,,,,,,,,,
+# COLUMN transitdepthcalc: Transit Depth - Calculated [percent],,,,,,,,,,,,,,,,,,,,,,,,,,
+# COLUMN ttv:            TTV flag,,,,,,,,,,,,,,,,,,,,,,,,,,
+# COLUMN midpointcalendar: UT,,,,,,,,,,,,,,,,,,,,,,,,,,
+# COLUMN propmidpointunc: Propagated Midpoint Uncertainty [days],,,,,,,,,,,,,,,,,,,,,,,,,,
+# COLUMN midpointairmass: Event Midpoint Airmass,,,,,,,,,,,,,,,,,,,,,,,,,,
+# COLUMN targetobsstartcalendar: Target Observability Start Calendar UT,,,,,,,,,,,,,,,,,,,,,,,,,,
+# COLUMN targetobsendcalendar: Target Observability End Calendar UT,,,,,,,,,,,,,,,,,,,,,,,,,,
+# COLUMN fractionobservable: Event Fraction Observable,,,,,,,,,,,,,,,,,,,,,,,,,,
+# COLUMN magnitude_visible: V-band (Johnson) [mag],,,,,,,,,,,,,,,,,,,,,,,,,,
+# COLUMN magnitude_k:    Ks-band (2MASS) [mag],,,,,,,,,,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,,,,,,,,,,
+planetname,ra_str,ra,dec_str,dec,obsname,ploturl_dl,reflink,algorithm,isdefault,ismostprecise,hasmoreprecise,eccenwarning,phase,period,transitduration,transitdepthdb,transitdepthcalc,ttv,midpointcalendar,propmidpointunc,midpointairmass,targetobsstartcalendar,targetobsendcalendar,fractionobservable,magnitude_visible,magnitude_k
+Custom,13h50m06.24s,207.526001,-40d50m09.23s,-40.835896,,,User Edited Data,Transit Ephemeris (Circular Orbit),0,1,0,0,0,6.959503,4.822,,0.447546,,04/06/2024 00:50,0.004509,,,,,0,0
+Custom,13h50m06.24s,207.526001,-40d50m09.23s,-40.835896,,,User Edited Data,Transit Ephemeris (Circular Orbit),0,1,0,0,0,6.959503,4.822,,0.447546,,04/12/2024 23:52,0.004525,,,,,0,0
+Custom,13h50m06.24s,207.526001,-40d50m09.23s,-40.835896,,,User Edited Data,Transit Ephemeris (Circular Orbit),0,1,0,0,0,6.959503,4.822,,0.447546,,04/19/2024 22:54,0.004541,,,,,0,0
+Custom,13h50m06.24s,207.526001,-40d50m09.23s,-40.835896,,,User Edited Data,Transit Ephemeris (Circular Orbit),0,1,0,0,0,6.959503,4.822,,0.447546,,04/26/2024 21:55,0.004557,,,,,0,0
+Custom,13h50m06.24s,207.526001,-40d50m09.23s,-40.835896,,,User Edited Data,Transit Ephemeris (Circular Orbit),0,1,0,0,0,6.959503,4.822,,0.447546,,05/03/2024 20:57,0.004573,,,,,0,0
+Custom,13h50m06.24s,207.526001,-40d50m09.23s,-40.835896,,,User Edited Data,Transit Ephemeris (Circular Orbit),0,1,0,0,0,6.959503,4.822,,0.447546,,05/10/2024 19:59,0.004589,,,,,0,0
+Custom,13h50m06.24s,207.526001,-40d50m09.23s,-40.835896,,,User Edited Data,Transit Ephemeris (Circular Orbit),0,1,0,0,0,6.959503,4.822,,0.447546,,05/17/2024 19:00,0.004605,,,,,0,0
+Custom,13h50m06.24s,207.526001,-40d50m09.23s,-40.835896,,,User Edited Data,Transit Ephemeris (Circular Orbit),0,1,0,0,0,6.959503,4.822,,0.447546,,05/24/2024 18:02,0.004621,,,,,0,0
+Custom,13h50m06.24s,207.526001,-40d50m09.23s,-40.835896,,,User Edited Data,Transit Ephemeris (Circular Orbit),0,1,0,0,0,6.959503,4.822,,0.447546,,05/31/2024 17:04,0.004637,,,,,0,0
+Custom,13h50m06.24s,207.526001,-40d50m09.23s,-40.835896,,,User Edited Data,Transit Ephemeris (Circular Orbit),0,1,0,0,0,6.959503,4.822,,0.447546,,06/07/2024 16:06,0.004653,,,,,0,0
+Custom,13h50m06.24s,207.526001,-40d50m09.23s,-40.835896,,,User Edited Data,Transit Ephemeris (Circular Orbit),0,1,0,0,0,6.959503,4.822,,0.447546,,06/14/2024 15:07,0.004669,,,,,0,0
+Custom,13h50m06.24s,207.526001,-40d50m09.23s,-40.835896,,,User Edited Data,Transit Ephemeris (Circular Orbit),0,1,0,0,0,6.959503,4.822,,0.447546,,06/21/2024 14:09,0.004685,,,,,0,0
+Custom,13h50m06.24s,207.526001,-40d50m09.23s,-40.835896,,,User Edited Data,Transit Ephemeris (Circular Orbit),0,1,0,0,0,6.959503,4.822,,0.447546,,06/28/2024 13:11,0.004701,,,,,0,0
+Custom,13h50m06.24s,207.526001,-40d50m09.23s,-40.835896,,,User Edited Data,Transit Ephemeris (Circular Orbit),0,1,0,1,0.25,6.959503,4.822,,0.447546,,04/07/2024 18:36,0.004509,,,,,0,0
+Custom,13h50m06.24s,207.526001,-40d50m09.23s,-40.835896,,,User Edited Data,Transit Ephemeris (Circular Orbit),0,1,0,1,0.25,6.959503,4.822,,0.447546,,04/14/2024 17:37,0.004525,,,,,0,0
+Custom,13h50m06.24s,207.526001,-40d50m09.23s,-40.835896,,,User Edited Data,Transit Ephemeris (Circular Orbit),0,1,0,1,0.25,6.959503,4.822,,0.447546,,04/21/2024 16:39,0.004541,,,,,0,0
+Custom,13h50m06.24s,207.526001,-40d50m09.23s,-40.835896,,,User Edited Data,Transit Ephemeris (Circular Orbit),0,1,0,1,0.25,6.959503,4.822,,0.447546,,04/28/2024 15:41,0.004557,,,,,0,0
+Custom,13h50m06.24s,207.526001,-40d50m09.23s,-40.835896,,,User Edited Data,Transit Ephemeris (Circular Orbit),0,1,0,1,0.25,6.959503,4.822,,0.447546,,05/05/2024 14:43,0.004573,,,,,0,0
+Custom,13h50m06.24s,207.526001,-40d50m09.23s,-40.835896,,,User Edited Data,Transit Ephemeris (Circular Orbit),0,1,0,1,0.25,6.959503,4.822,,0.447546,,05/12/2024 13:44,0.004589,,,,,0,0
+Custom,13h50m06.24s,207.526001,-40d50m09.23s,-40.835896,,,User Edited Data,Transit Ephemeris (Circular Orbit),0,1,0,1,0.25,6.959503,4.822,,0.447546,,05/19/2024 12:46,0.004605,,,,,0,0
+Custom,13h50m06.24s,207.526001,-40d50m09.23s,-40.835896,,,User Edited Data,Transit Ephemeris (Circular Orbit),0,1,0,1,0.25,6.959503,4.822,,0.447546,,05/26/2024 11:48,0.004621,,,,,0,0
+Custom,13h50m06.24s,207.526001,-40d50m09.23s,-40.835896,,,User Edited Data,Transit Ephemeris (Circular Orbit),0,1,0,1,0.25,6.959503,4.822,,0.447546,,06/02/2024 10:49,0.004637,,,,,0,0
+Custom,13h50m06.24s,207.526001,-40d50m09.23s,-40.835896,,,User Edited Data,Transit Ephemeris (Circular Orbit),0,1,0,1,0.25,6.959503,4.822,,0.447546,,06/09/2024 09:51,0.004653,,,,,0,0
+Custom,13h50m06.24s,207.526001,-40d50m09.23s,-40.835896,,,User Edited Data,Transit Ephemeris (Circular Orbit),0,1,0,1,0.25,6.959503,4.822,,0.447546,,06/16/2024 08:53,0.004669,,,,,0,0
+Custom,13h50m06.24s,207.526001,-40d50m09.23s,-40.835896,,,User Edited Data,Transit Ephemeris (Circular Orbit),0,1,0,1,0.25,6.959503,4.822,,0.447546,,06/23/2024 07:54,0.004685,,,,,0,0
+Custom,13h50m06.24s,207.526001,-40d50m09.23s,-40.835896,,,User Edited Data,Transit Ephemeris (Circular Orbit),0,1,0,1,0.25,6.959503,4.822,,0.447546,,06/30/2024 06:56,0.004701,,,,,0,0
+Custom,13h50m06.24s,207.526001,-40d50m09.23s,-40.835896,,,User Edited Data,Transit Ephemeris (Circular Orbit),0,1,0,1,0.75,6.959503,4.822,,0.447546,,04/04/2024 07:05,0.004493,,,,,0,0
+Custom,13h50m06.24s,207.526001,-40d50m09.23s,-40.835896,,,User Edited Data,Transit Ephemeris (Circular Orbit),0,1,0,1,0.75,6.959503,4.822,,0.447546,,04/11/2024 06:07,0.004509,,,,,0,0
+Custom,13h50m06.24s,207.526001,-40d50m09.23s,-40.835896,,,User Edited Data,Transit Ephemeris (Circular Orbit),0,1,0,1,0.75,6.959503,4.822,,0.447546,,04/18/2024 05:08,0.004525,,,,,0,0
+Custom,13h50m06.24s,207.526001,-40d50m09.23s,-40.835896,,,User Edited Data,Transit Ephemeris (Circular Orbit),0,1,0,1,0.75,6.959503,4.822,,0.447546,,04/25/2024 04:10,0.004541,,,,,0,0
+Custom,13h50m06.24s,207.526001,-40d50m09.23s,-40.835896,,,User Edited Data,Transit Ephemeris (Circular Orbit),0,1,0,1,0.75,6.959503,4.822,,0.447546,,05/02/2024 03:12,0.004557,,,,,0,0
+Custom,13h50m06.24s,207.526001,-40d50m09.23s,-40.835896,,,User Edited Data,Transit Ephemeris (Circular Orbit),0,1,0,1,0.75,6.959503,4.822,,0.447546,,05/09/2024 02:13,0.004573,,,,,0,0
+Custom,13h50m06.24s,207.526001,-40d50m09.23s,-40.835896,,,User Edited Data,Transit Ephemeris (Circular Orbit),0,1,0,1,0.75,6.959503,4.822,,0.447546,,05/16/2024 01:15,0.004589,,,,,0,0
+Custom,13h50m06.24s,207.526001,-40d50m09.23s,-40.835896,,,User Edited Data,Transit Ephemeris (Circular Orbit),0,1,0,1,0.75,6.959503,4.822,,0.447546,,05/23/2024 00:17,0.004605,,,,,0,0
+Custom,13h50m06.24s,207.526001,-40d50m09.23s,-40.835896,,,User Edited Data,Transit Ephemeris (Circular Orbit),0,1,0,1,0.75,6.959503,4.822,,0.447546,,05/29/2024 23:18,0.004621,,,,,0,0
+Custom,13h50m06.24s,207.526001,-40d50m09.23s,-40.835896,,,User Edited Data,Transit Ephemeris (Circular Orbit),0,1,0,1,0.75,6.959503,4.822,,0.447546,,06/05/2024 22:20,0.004637,,,,,0,0
+Custom,13h50m06.24s,207.526001,-40d50m09.23s,-40.835896,,,User Edited Data,Transit Ephemeris (Circular Orbit),0,1,0,1,0.75,6.959503,4.822,,0.447546,,06/12/2024 21:22,0.004653,,,,,0,0
+Custom,13h50m06.24s,207.526001,-40d50m09.23s,-40.835896,,,User Edited Data,Transit Ephemeris (Circular Orbit),0,1,0,1,0.75,6.959503,4.822,,0.447546,,06/19/2024 20:23,0.004669,,,,,0,0
+Custom,13h50m06.24s,207.526001,-40d50m09.23s,-40.835896,,,User Edited Data,Transit Ephemeris (Circular Orbit),0,1,0,1,0.75,6.959503,4.822,,0.447546,,06/26/2024 19:25,0.004685,,,,,0,0
